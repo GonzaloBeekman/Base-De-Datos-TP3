@@ -1,0 +1,2 @@
+a)SELECT * FROM Autores WHERE Nacionalidad = 'Argentino';
+b)SELECT * FROM Autores WHERE AñoPublicacion BETWEEN 1960 AND 1980;
